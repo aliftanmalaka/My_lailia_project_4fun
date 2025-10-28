@@ -1,32 +1,5 @@
 # My_lailia_project_4fun
-project-folder/
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── assets/
-│ ├── images/
-│ │ ├── logo.png
-│ │ ├── logo-white.png
-│ │ ├── hero-product.png
-│ │ ├── about-office.jpg
-│ │ └── og-image.jpg
-│ ├── products/
-│ │ ├── waiteu.png
-│ │ ├── sop.png
-│ │ ├── ha.png
-│ │ ├── beauty.png
-│ │ ├── slim.png
-│ │ └── collavit.png
-│ └── gallery/
-│ ├── event1.jpg
-│ ├── event2.jpg
-│ ├── event3.jpg
-│ ├── event4.jpg
-│ ├── event5.jpg
-│ └── event6.jpg
-└── README.md
+
 
 
 ## Fitur yang Diimplementasikan
